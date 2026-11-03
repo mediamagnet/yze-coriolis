@@ -83,6 +83,6 @@
     "secondaryTokenAttribute": "power",
     "url": "",
     "protected": false,
-    "manifest": "https://github.com/hodpub/yze-coriolis/releases/latest/download/system.json",
-    "download": "https://github.com/hodpub/yze-coriolis/releases/download/v4.3.0/coriolis.zip"
+    "manifest": "https://github.com/mediamagnet/yze-coriolis/releases/latest/download/system.json",
+    "download": "https://github.com/mediamagnet/yze-coriolis/releases/download/v4.3.0/coriolis.zip"
 }
